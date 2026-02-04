@@ -12,15 +12,13 @@ Habilitar la Google Apps Script API en tu configuración de usuario de Google (s
 ## Autenticación de clasp
 
  Archivo de Credenciales de Usuario
-------
+
 
 ## Estructura del proyecto
-
- Estructura del proyecto
-
+ Estructura del proyecto 
+ 
  Ejemplo de código para generar el documento (src/code.js)
-----
+
 ## Pipeline de CI/CD (GitHub Actions)
 
  Pasos para el WorkFlow
------
